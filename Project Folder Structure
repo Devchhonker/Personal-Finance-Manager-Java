@@ -1,0 +1,26 @@
+Online-Personal-Finance-Manager/
+│
+├── src/
+│   ├── main/
+│   │   └── Main.java
+│   │
+│   ├── model/
+│   │   ├── Expense.java
+│   │   ├── Budget.java
+│   │   └── Goal.java
+│   │
+│   ├── admin/
+│   │   ├── AdminDashboard.java
+│   │   └── UserManagementFrame.java
+│   │
+│   ├── user/
+│   │   ├── UserDashboard.java
+│   │   ├── ExpenseFrame.java
+│   │   ├── BudgetFrame.java
+│   │   └── GoalFrame.java
+│   │
+│   └── auth/
+│       └── LoginFrame.java
+│
+├── README.md
+└── screenshots/   (optional)
