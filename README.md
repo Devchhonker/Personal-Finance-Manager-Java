@@ -157,7 +157,7 @@ This project is developed **solely for educational purposes** and demonstrates c
 
 ## 📬 Author
 
-**Utsav Anand**
+**DevChhonker**
 B.Tech CSE (AI & ML)
 
 ---
